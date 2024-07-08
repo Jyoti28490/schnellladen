@@ -41,7 +41,7 @@ const products = [
 const ProductPage: React.FC = () => {
   const { t } = useTranslation();
   const cartContext = useContext(CartContext);
-  const [addedProductId, setAddedProductId] = useState<number | null>(null);
+  const [_, setAddedProductId] = useState<number | null>(null);
 
   const handleAddToCart = (product: {
     id: number;
