@@ -23,19 +23,19 @@ const products = [
   {
     id: 1,
     name: 'Electric Charging 1',
-    price: 300,
+    price: 150,
     imageUrl: product1,
   },
-  { id: 2, name: 'Electric Charging 1', price: 800, imageUrl: product2 },
-  { id: 3, name: 'Cycle rent', price: 30000, imageUrl: product3 },
+  { id: 2, name: 'Electric Charging 1', price: 120, imageUrl: product2 },
+  { id: 3, name: 'Cycle rent', price: 110, imageUrl: product3 },
   {
     id: 4,
     name: 'Cycle rent',
-    price: 9000,
+    price: 90,
     imageUrl: product4,
   },
-  { id: 5, name: 'Mobility for Elderly', price: 5800, imageUrl: product5 },
-  { id: 6, name: 'Mobility for Elderly', price: 8000, imageUrl: product6 },
+  { id: 5, name: 'Mobility for Elderly', price: 300, imageUrl: product5 },
+  { id: 6, name: 'Mobility for Elderly', price: 320, imageUrl: product6 },
 ];
 
 const ProductPage: React.FC = () => {
@@ -76,7 +76,7 @@ const ProductPage: React.FC = () => {
                   {product.name}
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  {t('price')}: ${product.price}
+                  {t('price')}: {product.price} €
                 </Typography>
                 <Button
                   variant="contained"
