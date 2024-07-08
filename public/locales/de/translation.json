@@ -1,0 +1,22 @@
+{
+  "welcome": "Willkommen bei Schnellladen",
+  "description": "Ihr One-Stop-Shop für all Ihre Bedürfnisse.",
+  "products": "Produkte",
+  "price": "Preis",
+  "add_to_cart": "In den Warenkorb",
+  "learn_more": "Mehr erfahren",
+  "product_added_to_cart": "Produkt in den Warenkorb gelegt!",
+  "about_us_text": " Über uns",
+  "about_us_paragraph": "Elektromobilität verändert unsere Art, uns fortzubewegen, und schafft nachhaltige Lösungen für kommende Generationen. Mit modernen Technologien und umweltfreundlichen Fahrzeugen setzen wir heute die Basis für eine sauberere und effizientere Mobilität von morgen. Elektroautos, E-Bikes und Scooter verringern Emissionen und fördern einen nachhaltigeren Lebensstil. Durch die Reduzierung von Abhängigkeiten von fossilen Brennstoffen und die Nutzung erneuerbarer Energiequellen bietet Elektromobilität das Potenzial, den CO2-Fußabdruck erheblich zu verkleinern. Intelligente Ladesysteme und vernetzte Fahrzeuge können zusätzlich die Energieeffizienz steigern und den Verkehr in urbanen Räumen optimieren. Elektromobilität bedeutet nicht nur eine umweltfreundlichere Fortbewegung, sondern auch Fortschritt und Innovation für unsere Gesellschaft.",
+  "about_us_vision": "WIR SCHAFFEN DIE GRUNDLAGE FÜR EINE NACHHALTIGE MOBILITÄT",
+  "quote": "Elektromobilität ist nicht nur eine Bewegung, sondern eine Revolution für eine nachhaltigere Zukunft.",
+  "order_successfully_placed": "Bestellung erfolgreich aufgegeben",
+  "thank_you_for_your_purchase": "Vielen Dank für Ihren Einkauf. Ihre Bestellung wurde erfolgreich aufgegeben.",
+  "about_us_description": "Schnellladen ist Ihr One-Stop-Shop für all Ihre Bedürfnisse. Wir bieten eine große Auswahl an Produkten zu wettbewerbsfähigen Preisen.",
+  "place_order": "Bestellung aufgeben",
+  "remove": "Entfernen",
+  "total_products": "Gesamtprodukte",
+  "total_price": "Gesamtpreis",
+  "quick_links": "Schnellzugriff",
+  "contact": "Kontakt"
+}

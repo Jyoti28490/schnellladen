@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome to Schnellladen",
+  "description": "Your one-stop shop for all your needs.",
+  "products": "Products",
+  "price": "Price",
+  "add_to_cart": "Add to cart",
+  "learn_more": "Learn More",
+  "product_added_to_cart": "Product added to cart!",
+  "about_us_text": "About Us",
+  "about_us_paragraph": "Electromobility is transforming the way we move and creating sustainable solutions for future generations. With modern technologies and eco-friendly vehicles, we are laying the groundwork today for cleaner and more efficient mobility tomorrow. Electric cars, e-bikes, and scooters reduce emissions and promote a more sustainable lifestyle. By reducing dependencies on fossil fuels and utilizing renewable energy sources, electromobility has the potential to significantly shrink our carbon footprint. Smart charging systems and connected vehicles can further enhance energy efficiency and optimize traffic in urban areas. Electromobility means not only a more environmentally friendly mode of transportation but also progress and innovation for our society.",
+  "about_us_vision": "WE ARE LAYING THE FOUNDATION FOR SUSTAINABLE MOBILITY",
+  "quote": "Electromobility is not just a movement, but a revolution for a more sustainable future.",
+  "order_successfully_placed": "Order successfully placed",
+  "thank_you_for_your_purchase": "Thank you for your purchase. Your order has been successfully placed.",
+  "about_us_description": "Schnellladen is your one-stop shop for all your needs. We offer a wide variety of products at competitive prices.",
+  "place_order": "Place order",
+  "remove": "Remove",
+  "total_products": "Total Products",
+  "total_price": "Total Price",
+  "quick_links": "Quick Links",
+  "contact": "Contact"
+}
