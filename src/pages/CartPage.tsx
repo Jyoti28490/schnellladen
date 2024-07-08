@@ -133,7 +133,7 @@ const CartPage: React.FC = () => {
                   variant="h6"
                   sx={{ fontWeight: 'bold', color: 'white' }}
                 >
-                  {t('total_price')}: ${getTotalPrice()}
+                  {t('total_price')}: {getTotalPrice()} €
                 </Typography>
                 <Button
                   variant="contained"
